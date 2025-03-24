@@ -1,0 +1,11 @@
+streamlit==1.32.0
+pandas==2.2.1
+plotly==5.20.0
+yfinance==0.2.37
+scikit-learn==1.4.1.post1
+numpy==1.26.4
+reportlab==4.2.0
+textblob==0.18.0.post0
+newsapi-python==0.2.7
+prophet==1.1.5
+python-dotenv==1.0.1
